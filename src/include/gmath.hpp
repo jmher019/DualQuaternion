@@ -136,6 +136,8 @@ namespace gmath {
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	class dualquat {
 	public:
+		// [0] rotation component
+		// [1] dual component
 		quat* data;
 
 		dualquat(const quat& real = quat(), const quat& dual = quat());
