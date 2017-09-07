@@ -1,0 +1,7 @@
+﻿  vec4.cpp
+  quat.cpp
+  mat.cpp
+  dualquat.cpp
+  Generating Code...
+  DualQuaternion.vcxproj -> D:\Dev\Github\dual-quaternion\DualQuaternion\Debug\DualQuaternion.exe
+  DualQuaternion.vcxproj -> D:\Dev\Github\dual-quaternion\DualQuaternion\Debug\DualQuaternion.pdb (Partial PDB)
